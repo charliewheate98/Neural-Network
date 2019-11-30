@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  Network.cpp
+C:\Dev\NeuralNetwork\NeuralNetwork\Network.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\NeuralNetwork\NeuralNetwork\Network.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\NeuralNetwork\NeuralNetwork\Network.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+  Neuron.cpp
+C:\Dev\NeuralNetwork\NeuralNetwork\Network.cpp(93,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\NeuralNetwork\NeuralNetwork\Neuron.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\NeuralNetwork\NeuralNetwork\Neuron.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Dev\NeuralNetwork\NeuralNetwork\Neuron.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetwork.vcxproj -> C:\Dev\NeuralNetwork\Debug\NeuralNetwork.exe
