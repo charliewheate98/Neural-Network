@@ -1,5 +1,9 @@
 # Neural-Network
 A Neural Network that learns to output the correct value based on the inputs. E.g. if the input neurons are 0, 0, then the output should be 0, if 1, 0 then the output should be 1, if 1, 1 then the output should be 1.  The weights are generated in arbitrary fashion. I still plan on adding more to this project.
+
+Important Things to Node:
+  - I tried to go not further then the O(n^2) time complexsity to avoid perform drops, and bad programming methodologies
+  - This Neural Network is working fully, but still I plan on adding more to it and optimising as much as I can based on the S.O.L.I.D    principles.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 A Neural Network you can say is a loose representation of the human brain that learns over a certain number of training passes. 
