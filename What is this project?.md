@@ -17,7 +17,7 @@ and putting the output value from this through a activation function which gives
 
 Also the overall gradient is stronger for tanh, then sigmoid (derivates(rate of change) are steeper). Therefore a more accurate target near the end of the training passes.
 
-Now its more than likely this output will be correct, so we do a process known as gradient descent and get the net error which is the 
+Now its more than likely this output will NOT be correct, so we do a process known as gradient descent and get the net error which is the 
 gradient/range of the target output and the output the network gave us. I then back propagated to the hidden/middle layer and performed
 the operations again including this gradient value in the calculation giving me a new value closer to what I expect due to the net error value.
 
